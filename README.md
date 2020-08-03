@@ -6,7 +6,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Baseball
 
-### Connect with me:
+### 📞 Connect with me:
 
 [<img align="left" alt="BaseChip | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="BaseChip | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" />][email]
