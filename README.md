@@ -3,7 +3,7 @@
 ## I'm a student from Germany!
 - 🔭 I’m currently working on an [app for my physics class!][physikapp]
 - 🌱 I’m currently learning Flutter and Dart
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Baseball
 
 ### 📞 Connect with me:
