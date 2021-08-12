@@ -1,7 +1,7 @@
 ### Hi there, I'm Falk - aka BaseChip 👋
 
 ## I'm a student from Germany!
-- 🔭 I’m currently working on an [app for my physics class!][physikapp]
+- 🔭 I’m currently working as dual student for [Bayer AG](https://www.bayer.com/en/)
 - 🌱 I’m currently learning Flutter and Dart
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Baseball
