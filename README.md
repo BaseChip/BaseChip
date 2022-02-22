@@ -2,8 +2,8 @@
 
 ## I'm a student from Germany!
 - 🔭 I’m currently working as dual student for [Bayer AG](https://www.bayer.com/en/)
-- 🌱 I’m currently learning Flutter and Dart
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently working on a private project
+- 🥅 2022 Goals: Be more active in programming on my free time
 - ⚡ Fun fact: I love to play Baseball
 
 ### 📞 Connect with me:
@@ -23,4 +23,3 @@
 [twitter]: https://twitter.com/BaseChip
 [email]: mailto:github@falkmichaelis.eu
 [instagram]: https://instagram.com/falkmichaelis
-[physikapp]: https://github.com/BaseChip/App-Physik
