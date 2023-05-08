@@ -2,7 +2,7 @@
 
 ## I'm a student from Germany!
 - 🔭 I’m currently working as dual student for [Bayer AG](https://www.bayer.com/en/)
-- 🌱 I’m currently working on private projects
+- 🌱 I’m currently working on [AI Finder](https://ai-finder.net)
 - ⚡ Fun fact: I love to play Baseball
 
 ### 📞 Connect with me:
